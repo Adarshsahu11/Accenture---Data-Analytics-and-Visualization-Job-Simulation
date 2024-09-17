@@ -18,3 +18,5 @@ Presentation Skills: Created a captivating PowerPoint deck and delivered a compe
 
 ![bar chart](https://github.com/user-attachments/assets/162baf8a-7b57-4c23-8868-ed4b656dbc97)
 
+✅ Thanks to Forage and Accenure for giving me this incredible opportunity to work on amazing datasets to find out insights and build data visualization reports.✨
+
